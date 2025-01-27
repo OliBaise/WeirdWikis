@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covid 19</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Weird Wikis</h1>
+    </header>
+    <div id="container">
+        <aside>
+            <ul>
+                <li><a href="index.html#people">People</a></li>
+                <li><a href="index.html#events">Events</a></li>
+                <li><a href="index.html#concepts">Concepts</a></li>
+                <li><a href="#index.html#products">Products</a></li>
+            </ul>
+        </aside>
+        <main>
+            <h2>Covid 19</h2>
+            2019-nCoV Acute Respiratory Syndrome is a viral respiratory disease of zoonotic origin caused by the 2019 novel coronavirus (2019-nCoV).
+    <footer>
+        <p>Weird Wikis - bought to you by JournoFinder</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
