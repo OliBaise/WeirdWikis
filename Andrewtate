@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Andrew Tate</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Weird Wikis</h1>
+    </header>
+    <div id="container">
+        <aside>
+            <ul>
+                <li><a href="index.html#people">People</a></li>
+                <li><a href="index.html#events">Events</a></li>
+                <li><a href="index.html#concepts">Concepts</a></li>
+                <li><a href="#index.html#products">Products</a></li>
+            </ul>
+        </aside>
+        <main>
+            <h2>Andrew Tate</h2>
+            <br>
+           Andrew Tate (born 1987) is an American kickboxer who competes in the cruiserweight and heavyweight divisions. He is three times ISKA full-contact world champion and Enfusion Live champion.
+<br>
+<h2>Career</h2>
+<br><br>
+After scoring major victories over former Super-cruiserweight British Champions Ollie Green and Mo Karbo Tate challenged Paul Randall for the vacant ISKA English Light-cruiserweight title. Tate won his first ISKA title stopping Randall in the fifth round of their bout in Derby on April 25, 2009.
+<br><br>
+Tate later scored few more victories and won IKF- International Kickboxing Federation British Cruiserweight title against Daniel Hughes, then on March 19, 2011 he fought first time for ISKA world title.[3][4] Andrew lost the fight for vacant ISKA world Full-Contact light heavyweight championship to Jean-Luc Benoit on points after 12 rounds. Three months later they had revanche in Luton, England, but this time Tate became champion defeating Benoit via spectacular KO in round 8 of the scheduled 12 rounds.
+<br><br>
+He lost very close fight for It's Showtime 85MAX world title against champion Sahak Parparyan on May 12, 2012 in Kortrijk, Belgium.”
+<br><br>
+On December 2, 2012 Tate participated in Enfusion 3: Trial of the Gladiators reality final tournament, to determine #1 kickboxer of the world in -85 kg category at that time. He qualified for tournament in August 2011 in Ohrid, Macedonia stopping Sammy Masa and Adnan Omeragić. He scored easy victory in semi finals knocking out Ritchie Hocking with punches, but surprisingly lost in the final via first round flying knee KO from Franci Grajš, who fought hard battle in semi final against Sahak Parparyan.
+<br><br>
+Tate avenged a 2011 loss to Vincent Petitjean and won his second ISKA world title in twelve rounds of two minutes. Fight was held in Châteaurenard, France on March 9, 2013 with Tate taking ISKA World Full-Contact Light Cruiserweight Championship via split decision. Andrew defended title one year later, also on Power Trophy event, stopping Cyril Vetter early in the first round.
+<br><br>
+After taking four victories in Enfusion Live ring during 2013 over David Radeff, Marino Schouten, Marlon Hunt and Laszlo Szabo, Tate participated in a four man tournament to determine Enfusion Live -85 kg World Champion, alongside Mirko Cingel, Jiří Žák and Rustam Guseinov. Tournament was held in Žilina, Slovakia on April 26, 2014, Tate lost in semi finals to local fighter and tournament winner, Miroslav Cingel, via unanimous decision.
+<br><br>
+Despite losing in the semi finals of tournament for Enfusion Live -85 kg championship Tate got opportunity to fight for Enfusion Live -90 kg championship against kickboxing veteran Wendell Roche on June 28, 2014. Andrew won title in second round, becaming second fighter that stopped Roche in his career.
+<br>
+<h2>Titles<h2>
+<ul>
+    <li>2014 Enfusion Live World Champion -90 kg</li>
+    <li>2013 ISKA World Full-Contact Light Cruiserweight Champion -84.6 kg (1 Title Def.)</li>
+    <li>2012 Enfusion: Trial of the Gladiators Tournament Runner-Up</li>
+    <li>2011 ISKA World Full-Contact Light Heavyweight Champion -81.5 kg</li>
+    <li>2009 IKF British Cruiserweight Champion -84.5 kg</li>
+    <li>2009 ISKA English Full-Contact Cruiserweight Champion</li>
+</ul>
+<footer>
+        <p>Weird Wikis - bought to you by JournoFinder</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
