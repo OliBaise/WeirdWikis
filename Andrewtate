@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+    <head>
         <h1>Weird Wikis</h1>
-    </header>
+    </head>
     <div id="container">
         <aside>
             <ul>
