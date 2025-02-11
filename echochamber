@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Echo Chamber- Fist Wikis</title>
+    <link rel="stylesheet" href="styles.css">
+     <link rel="shortcut icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wikipedia_logo_red.png/768px-Wikipedia_logo_red.png">
+</head>
+<body>
+    <header>
+        <h1>First Wikis- Wikipedia Entries From A Simpler Time</h1>
+    </header>
+    <div id="container">
+        <aside>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#people">People</a></li>
+                <li><a href="index.html#events">Events</a></li>
+                <li><a href="index.html#concepts">Concepts</a></li>
+                <li><a href="#index.html#products">Products</a></li>
+            </ul>
+        </aside>
+        <main>
+            <h2>Echo Chamber</h2>
+The term "media echo chamber" can refer to any situation in which information, ideas or beliefs are amplified or reinforced by transmission inside an "enclosed" space. Observers of journalism in the mass media describe an echo chamber effect in media discourse. One purveyor of information will make a claim, which many like-minded people then repeat, overhear, and repeat again (often in an exaggerated or otherwise distorted form) until most people assume that some extreme variation of the story is true.
+<br><br>
+Similarly, the term is also used to name the media effect, whereby an incorrect story (often a "smear" is reported through a biased channel, often first appearing in a new-media domain, and it is this simple presence of a story which is reported in more reputable mainstream media outlets, often using intermediary sources or commentary for reference, independent of the factual merits of the story. The overall effect often being to legitimize false claims in the public eye, through sheer volume of reporting and media references, even if the majority of these reports acknowledge the original factual inaccuracy of the story.
+<br><br>
+Regarding this condition arising in online communities, participants may find their own opinions constantly echoed back to them, and in doing so reinforce a certain sense of truth that resonates with individual belief systems. This can create some significant challenges to critical discourse within an online medium. The echo-chamber effect may also impact a lack of recognition to large demographic changes in language and culture on the Internet if individuals only create, experience and navigate those online spaces that reinforce their "preferred" world view. Another emerging term used to describe this "echoing" and homogenizing effect on the Internet within social communities is "cultural tribalism". The Internet may also be seen as a complex system (e.g., emergent, dynamic, evolutionary), and as such, will at times eliminate the effects of positive feedback loops (i.e., the echo-chamber effect) to that system, where a lack of perturbation to dimensions of the network, prohibits a sense of equilibrium to the system. Complex systems that are characterized by negative feedback loops will create more stability and balance during emergent and dynamic behaviour.
+<footer>
+            <p>FirstWikis.org</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
