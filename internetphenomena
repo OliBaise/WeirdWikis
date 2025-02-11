@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>List of Internet Phenomena- Fist Wikis</title>
+    <link rel="stylesheet" href="styles.css">
+     <link rel="shortcut icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Wikipedia_logo_red.png/768px-Wikipedia_logo_red.png">
+</head>
+<body>
+    <header>
+        <h1>First Wikis- Wikipedia Entries From A Simpler Time</h1>
+    </header>
+    <div id="container">
+        <aside>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html#people">People</a></li>
+                <li><a href="index.html#events">Events</a></li>
+                <li><a href="index.html#concepts">Concepts</a></li>
+                <li><a href="#index.html#products">Products</a></li>
+            </ul>
+        </aside>
+        <main>
+            <h2>List of Internet Phenomena</h2>
+An Internet phenomenon is akin to a fad, in which something relatively unknown becomes increasingly popular, but usually for a short duration of time. It is nearly impossible to accurately measure the depth of a phenomenon's popularity, and different groups of the Internet may participate more than others. The internet has a much greater lack of real world physical boundaries, lending itself to a faster spreading of information and ideas, especially when the subject is based around humor or curiosity.
+<ul>
+<li>Mr. T Ate My Balls, a Yahoo! site with images of Mr. T, captioned with various absurd and questionable statements. Repeatedly done with other subjects, both fictional and non-fictional. Spawned an entire Yahoo category under Tasteless Humor > Ate My Balls.</li>
+<li>Mahir Cagri A personal website that has received mass adoration by fans, namely for its overly enthusiastic text.</li>
+<li>Thundercats outtakes Outtakes of an animated 80's television series.</li>
+<li>All your base are belong to us A phrase from the English translation of the video game Zero Wing, adapted into a popular flash animation.</li>
+<li>The Hamster Dance A page filled with animated GIFs of hamsters, linking to other animated pages. It now has its own CD soundtrack.</li>
+<li>Oolong the pancake Rabbit. A Japanese rabbit owner who places various objects on top of his pet's head.</li>
+</ul>
+<footer>
+            <p>FirstWikis.org</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
